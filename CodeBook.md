@@ -1,8 +1,8 @@
-**Input Data**
+## **Input Data** ##
 
 This script assumes that the UCI dataset resides in the current working directory.
 
-**Transformation**
+## **Transformation** ##
 
 The script, run_analysis.R, does the following:
 
@@ -27,7 +27,7 @@ The script, run_analysis.R, does the following:
 
 
 
-**Output Data**
+## **Output Data** ##
 
 The resulting tidy_data.txt dataset shows the test and train subjects with their performed activity and the the mean and standard deviation variables for the following original variables:
 
